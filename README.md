@@ -1,2 +1,2 @@
-Portfolio
+# Portfolio
 This fully responsive static portfolio website is built with **HTML, CSS, JavaScript, jQuery, and Bootstrap**. It offers a clean, modern design that adjusts seamlessly to all screen sizes for an optimal experience on desktops, tablets, and smartphones. The site highlights my skills, projects, and achievements, featuring interactive elements powered by JavaScript and jQuery. Bootstrap ensures quick, responsive layouts for a consistent look across devices. This portfolio showcases my expertise in front-end web development, focusing on clean code and responsive design.
